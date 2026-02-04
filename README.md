@@ -61,7 +61,56 @@ Customization options are organized into five main categories:
 - Select one or more MySQL tables as data sources  
 - Visually define relationships between tables  
 - Apply filters to display only the exact data ranges you need, with filtering options based on each column’s data type  
-- Choose the specific columns to display on each chart axis  
+- Choose the specific columns to display on each chart axis
+  
+ ---
 
 ![select mysql tables for your graph](https://mysqlreports.com/scm-tables.jpg)
+
+## Who Smart Chart Maker Is For
+
+- **Developers**  
+  Speed up the development cycle by generating complex MySQL charts in minutes instead of hours of manual coding.
+
+- **Data Analysts**  
+  Quickly explore MySQL datasets visually to discover patterns, correlations, and trends.
+
+- **Project Managers**  
+  Create high-level dashboards to monitor project KPIs without requiring deep technical expertise.
+
+---
+## Benefits of Smart Chart Maker
+
+- **PHP Chart and Graph Builder with Wizard-Style Interface**  
+  A step-by-step wizard that guides you through connecting to your database, selecting your data, and rendering your chart.
+
+- **No SQL Writing Required**  
+  Everything is done visually without writing SQL queries, saving time and effort.
+
+- **Native MySQL Integration**  
+  Built specifically for MySQL, ensuring fast query execution and reliable data mapping for all MySQL charts and graphs.
+
+- **Multi-Series Support**  
+  Compare multiple datasets on a single chart (for example, "Projected Revenue" vs. "Actual Revenue"), a critical feature for data comparison and analysis.
+
+- **Diverse Chart Types**  
+  Choose from Bar charts, Line graphs, Pie charts, Area charts, and more to best represent your data.
+
+- **Appearance Control**  
+  Fully customize colors, themes, and dimensions to match your project’s branding.
+
+- **Easy Installation**  
+  Lightweight and built with native PHP. Simply upload the files to your web server and start building charts.
+
+- **Developer Friendly**  
+  While the interface is no-code, the generated output is clean and easy for developers to integrate into existing PHP applications.
+
+## 🚀 Need More PHP Charting Features or Commercial Charting Support?
+
+Smart Chart Maker is a free PHP charting tool intended for **personal, learning, and free open-source projects only**. If you need more advanced features or plan to use PHP charts and charting in a **commercial or SaaS project**, you can consider [Smart Report Maker](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/).
+
+Smart Report Maker not only creates PHP charts and graphs, but also full dashboards, pivot tables, reports, KPIs, and scheduled reports. In addition, you can easily and securely embed generated charts into your PHP application or WordPress website using the [Embed Manager](https://mysqlreports.com/srm-modules-embed-manager/).  
+
+You can also explore available features and tutorials in the [Video Gallery](https://mysqlreports.com/webuccino-screencasts/).
+
 
