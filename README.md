@@ -13,7 +13,7 @@ Smart Chart Maker helps you move beyond static tables, providing a dynamic way t
 
 ## Diverse Chart Types: Choose from Bar charts, Line graphs, Pie charts, Area charts, and more to best represent your MYSQL data.
 
-[![PHP chart types supported by Smart Chart Maker - Powerful PHP chart builder for MYSQL](https://mysqlreports.com/scm-types.jpg)](https://mysqlreports.com/php-charts/)
+[![PHP chart types supported by Smart Chart Maker - Powerful PHP chart builder for MYSQL](https://mysqlreports.com/scm-types2.jpg)](https://mysqlreports.com/php-charts/)
 
 ## Customize Your PHP Chart Axes with Full Control
 - Define which database column maps to each chart axis  
