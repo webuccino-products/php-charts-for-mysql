@@ -105,6 +105,8 @@ Customization options are organized into five main categories:
 - **Developer Friendly**  
   While the interface is no-code, the generated output is clean and easy for developers to integrate into existing PHP applications.
 
+---
+
 ## 🚀 Need More PHP Charting Features or Commercial Charting Support?
 
 Smart Chart Maker is a free PHP charting tool intended for **personal, learning, and free open-source projects only**. If you need more advanced features or plan to use PHP charts and charting in a **commercial or SaaS project**, you can consider [Smart Report Maker](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/).
@@ -114,4 +116,77 @@ Smart Report Maker not only creates PHP charts and graphs, but also full dashboa
 You can also explore available features and tutorials in the [Video Gallery](https://mysqlreports.com/webuccino-screencasts/).
 
 [![PHP Chart Builder Module of Smart Report Maker](https://mysqlreports.com/wp-content/uploads/2015/01/chart01.gif)](https://mysqlreports.com/php-charts/)
+
+---
+
+## Frequently Asked Questions (FAQ) – Smart Chart Maker
+
+#### What is Smart Chart Maker?
+Smart Chart Maker is a free PHP chart builder that allows you to create dynamic PHP charts and PHP graphs directly from MySQL and MariaDB databases using a visual wizard interface.
+
+---
+
+
+#### What is the difference between Smart Chart Maker and Smart Report Maker?
+Smart Chart Maker is a lightweight PHP chart builder designed only for creating PHP charts and PHP graphs from MySQL and MariaDB databases. It is provided as a free tool intended strictly for personal, learning, and free open-source projects.
+
+[Smart Report Maker](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/) is a complete reporting and analytics platform that can be used in **all types of projects**, including commercial and SaaS applications. It contains multiple modules, not just charting. In addition to PHP charts and graphs, Smart Report Maker allows you to create dashboards, pivot tables, reports, KPIs, scheduled reports, drill-down charts, and many other advanced analytic resources.
+
+Smart Report Maker also includes the [Embed Manager](https://mysqlreports.com/srm-modules-embed-manager/), which enables you to easily and securely embed generated charts and analytic resources into your PHP application or WordPress website.
+
+In short: Smart Chart Maker focuses only on basic PHP charts for free projects, while Smart Report Maker is a full-featured analytics suite suitable for professional and commercial environments.
+
+---
+
+#### Is Smart Chart Maker free?
+Yes. Smart Chart Maker Community Edition is free for personal use and free open-source projects.
+
+---
+
+#### Can I use Smart Chart Maker in a commercial project?
+No. Smart Chart Maker Community Edition is intended only for non-commercial projects. For commercial or SaaS projects, consider using [Smart Report Maker](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/).
+
+---
+#### What types of PHP graphs does Smart Chart Maker support?
+Smart Chart Maker supports many graph types including bar graphs, grouped bar graphs, line graphs, multi-line graphs, and more.
+
+---
+
+#### Do I need to write SQL queries?
+No. All data selection and filtering is done visually. No SQL writing is required.
+
+---
+
+#### Does Smart Chart Maker work with MySQL and MariaDB?
+Yes. Smart Chart Maker is built specifically for MySQL and MariaDB.
+
+---
+
+#### Is there detailed documentation for Smart Chart Maker?
+Yes. A **User-Guide.pdf** file is included in the repository and provides a very detailed explanation of installation, configuration, and usage.
+
+---
+
+#### Can I customize chart appearance?
+Yes. You can control colors, dimensions, axes, scales, legends, tooltips, and many other appearance settings.
+
+---
+
+#### Can I create multi-series PHP charts?
+Yes. You can create PHP graphs with multiple series such as grouped bar charts and multi-line charts.
+
+---
+
+#### Can I filter MySQL data before displaying it on charts?
+Yes. You can apply filters based on column data types to display only the data ranges you want.
+
+---
+
+#### Can Smart Chart Maker run on shared hosting?
+Yes. Smart Chart Maker can run on shared hosting, VPS, or cloud servers.
+
+---
+
+
+
 
