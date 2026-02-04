@@ -56,4 +56,12 @@ Customization options are organized into five main categories:
   - Customize tooltip appearance (background, text color, font, etc.)
  
 ![Customize php chart apperance](https://mysqlreports.com/apperances.jpg)
+## Control the MySQL Data Displayed on Your Charts
+
+- Select one or more MySQL tables as data sources  
+- Visually define relationships between tables  
+- Apply filters to display only the exact data ranges you need, with filtering options based on each column’s data type  
+- Choose the specific columns to display on each chart axis  
+
+![select mysql tables for your graph](https://mysqlreports.com/scm-tables.jpg)
 
