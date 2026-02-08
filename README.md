@@ -5,6 +5,7 @@
 ![MySQL](https://img.shields.io/badge/Database-MySQL%20%7C%20MariaDB-orange)
 ![No Code](https://img.shields.io/badge/No%20Code-Yes-success)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Verified Domain](https://img.shields.io/badge/domain-verified-brightgreen)
 
 Smart Chart Maker is a **free PHP chart builder for MySQL and MariaDB** that allows you to create dynamic PHP charts and PHP graphs directly from your database using a visual wizard interface.  
 Build bar charts, grouped bar charts, line charts, multi-line charts, pie charts, and more **without writing SQL queries**.
