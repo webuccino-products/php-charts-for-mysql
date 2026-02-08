@@ -1,4 +1,44 @@
-# An Open Source PHP Charts & Graphs Builder for MYSQL - Community Edition. 
+# Smart Chart Maker – Open-Source PHP MySQL Chart & Graph Builder (Community Edition)
+
+![License](https://img.shields.io/badge/license-community-blue)
+![PHP](https://img.shields.io/badge/php-native-blue)
+![MySQL](https://img.shields.io/badge/mysql-mariadb-supported-orange)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
+Smart Chart Maker is a **free PHP chart builder for MySQL and MariaDB** that allows you to create dynamic PHP charts and PHP graphs directly from your database using a visual wizard interface.  
+Build bar charts, grouped bar charts, line charts, multi-line charts, pie charts, and more **without writing SQL queries**.
+
+---
+
+## 🔹 Official Project
+
+Official Website: https://www.mysqlreports.com/  
+Charts Info Page: https://mysqlreports.com/php-charts/  
+Official Repository: https://github.com/webuccinoco/php-charts-for-mysql  
+
+⚠️ This is the original and official repository of Smart Chart Maker Community Edition.
+
+---
+
+## 📑 Table of Contents
+
+- [What is Smart Chart Maker](#what-is-smart-chart-maker)
+- [Why Use MySQL Charts](#why-use-mysql-charts)
+- [Build Charts from MySQL](#build-any-type-of-charts-directly-from-your-mysql-database)
+- [Main Features](#main-features-of-smart-chart-maker)
+- [Benefits](#benefits-of-smart-chart-maker)
+- [Who It's For](#who-smart-chart-maker-is-for)
+- [Smart Chart Maker vs Other PHP Charting Tools](#smart-chart-maker-vs-other-php-charting-tools)
+- [Need More Features](#-need-more-php-charting-features-or-commercial-charting-support)
+- [Getting Started](#getting-started-with-smart-chart-maker)
+- [Frequently Asked Questions](#frequently-asked-questions-faq--smart-chart-maker)
+- [Ownership](#ownership)
+- [Trademark](#-trademark)
+
+---
+
+## What is Smart Chart Maker
+
 Smart Chart Maker is a free PHP chart builder for MySQL and MariaDB that helps you create dynamic PHP charts and PHP graphs directly from your database. Easily build MySQL charts and MySQL graphs such as bar charts, grouped bar charts, line charts, pie charts, and more.
 
 [![Smart Chart Maker - Powerful PHP chart builder for MYSQL](https://mysqlreports.com/scm-01.jpg)](https://mysqlreports.com/php-charts/)
@@ -13,7 +53,6 @@ Smart Chart Maker helps you move beyond static tables, providing a dynamic way t
 
 [![Chart Selection step](https://mysqlreports.com/types.jpg)](https://mysqlreports.com/php-charts/)
 
-
 ---
 
 ## Diverse Chart Types: Choose from Bar charts, Line graphs, Pie charts, Area charts, and more to best represent your MYSQL data.
@@ -24,14 +63,14 @@ Smart Chart Maker helps you move beyond static tables, providing a dynamic way t
 ---
 
 ## Customize Your PHP Chart Axes with Full Control
+
 - Define which database column maps to each chart axis  
 - Create PHP graphs with multiple data series, such as grouped bar charts or multi-line charts, directly fed from your database for better comparison and analysis  
 - Choose the summary function you need (Count, Sum, Max, Min, Avg)  
 - Control the color of each bar, including single-color or multi-color gradient fills  
-- Add custom titles and labels to your chart legend 
+- Add custom titles and labels to your chart legend  
 
 [![Customize PHP chart axis](https://mysqlreports.com/Axies.jpg)](https://mysqlreports.com/php-charts/)
-
 
 ---
 
@@ -65,20 +104,17 @@ Customization options are organized into five main categories:
   - Enable or disable tooltips  
   - Control whether tooltips appear on hover or click  
   - Customize tooltip appearance (background, text color, font, etc.)
- 
+
 [![Customize PHP chart appearance](https://mysqlreports.com/apperances.jpg)](https://mysqlreports.com/php-charts/)
 
-
- ---
+---
 
 ## Control the MySQL Data Displayed on Your Charts
 
 - Select one or more MySQL tables as data sources  
 - Visually define relationships between tables  
 - Apply filters to display only the exact data ranges you need, with filtering options based on each column’s data type  
-- Choose the specific columns to display on each chart axis
-  
- 
+- Choose the specific columns to display on each chart axis  
 
 [![Select MySQL tables for your graph](https://mysqlreports.com/scm-tables.jpg)](https://mysqlreports.com/php-charts/)
 
@@ -96,6 +132,7 @@ Customization options are organized into five main categories:
   Create high-level dashboards to monitor project KPIs without requiring deep technical expertise.
 
 ---
+
 ## Benefits of Smart Chart Maker
 
 - **PHP Chart and Graph Builder with Wizard-Style Interface**  
@@ -124,6 +161,20 @@ Customization options are organized into five main categories:
 
 ---
 
+## Smart Chart Maker vs Other PHP Charting Tools
+
+| Feature | Smart Chart Maker | Typical PHP Chart Libraries |
+|------|------------------|----------------|
+| Visual Builder | Yes | No |
+| No SQL Required | Yes | No |
+| MySQL Native | Yes | Partial |
+| Multi-Series Charts | Yes | Partial |
+| Appearance Wizard | Yes | No |
+| Community Edition | Yes | Sometimes |
+| Commercial Upgrade Path | Via Smart Report Maker | No |
+
+---
+
 ## 🚀 Need More PHP Charting Features or Commercial Charting Support?
 
 Smart Chart Maker is a free PHP charting tool intended for **personal, learning, and free open-source projects only**. If you need more advanced features or plan to use PHP charts and charting in a **commercial or SaaS project**, you can consider [Smart Report Maker](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/).
@@ -136,15 +187,12 @@ You can also explore available features and tutorials in the [Video Gallery](htt
 <h5 align="center">Charts generated by Smart Report maker </h5>
 
 ---
+
 ## Getting Started with Smart Chart Maker
 
 Follow the steps below to install Smart Chart Maker and create your first PHP chart in minutes.
 
----
-
 #### Step 1: Clone or Download the Repository
-
-You can either clone the repository using Git or download it as a ZIP file and extract it.
 
 ```bash
 git clone https://github.com/webuccinoco/php-charts-for-mysql.git
@@ -160,8 +208,6 @@ Make sure to assign **755** permissions to the following directories:
 - SCM/charts  
 
 #### Step 4: Open Smart Chart Maker in your browser
-
-Open your browser and go to:
 
 ```
 http://your-server-name/path-to-SCM/index.php
@@ -182,14 +228,15 @@ Smart Chart Maker uses a wizard-style interface. Once you click the **"New Chart
 - A customization step to customize the chart appearance.  
 
 > **Note:** If you need full details about each step, please refer to the **User-Guide.pdf** in this repository.
+
 ---
+
 ## Frequently Asked Questions (FAQ) – Smart Chart Maker
 
 #### What is Smart Chart Maker?
 Smart Chart Maker is a free PHP chart builder that allows you to create dynamic PHP charts and PHP graphs directly from MySQL and MariaDB databases using a visual wizard interface.
 
 ---
-
 
 #### What is the difference between Smart Chart Maker and Smart Report Maker?
 Smart Chart Maker is a lightweight PHP chart builder designed only for creating PHP charts and PHP graphs from MySQL and MariaDB databases. It is provided as a free tool intended strictly for personal, learning, and free open-source projects.
@@ -211,6 +258,7 @@ Yes. Smart Chart Maker Community Edition is free for personal use and free open-
 No. Smart Chart Maker Community Edition is intended only for non-commercial projects. For commercial or SaaS projects, consider using [Smart Report Maker](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/).
 
 ---
+
 #### What types of PHP graphs does Smart Chart Maker support?
 Smart Chart Maker supports many graph types including bar graphs, grouped bar graphs, line graphs, multi-line graphs, and more.
 
@@ -251,6 +299,13 @@ Yes. Smart Chart Maker can run on shared hosting, VPS, or cloud servers.
 
 ---
 
+## Ownership
 
+Smart Chart Maker is developed and maintained by **Webuccino Inc**.  
+The software is licensed, not sold. All intellectual property rights remain with Webuccino Inc.
 
+---
 
+## 🏷 Trademark
+
+Smart Chart Maker™ is a trademark of Webuccino Inc.
